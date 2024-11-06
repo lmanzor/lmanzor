@@ -12,7 +12,7 @@ Lillian Manzor ([email](lmanzor@miami.edu))
 ## Education
 - 1988 University of Southern California, Ph.D. Spanish
 - 1982 University of Southern California, M.A.  Spanish
-- 1977 University of Miami 		            B.A.  French and Spanish
+- 1977 University of Miami 		            &nbsp; B.A.  French and Spanish
 
 
 
